@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FaceSpotter</string>
+    <string name="ok">OK</string>
+    <string name="disappointed_ok">Well, okay then.</string>
+    <string name="permission_camera_rationale">This app needs access to the camera in order to detect people’s faces.</string>
+    <string name="no_camera_permission">This app can’t run because it doesn’t have permission to use the camera. It will now exit.</string>
+    <string name="low_storage_error">This app can’t download the face detector components it needs because this device has too little available storage.</string>
+    <string name="results_found">Results found</string>
+    <string name="x_results_found">%d results found</string>
+
+    <string-array name="markers">
+        <item>justice</item>
+        <item>hero</item>
+        <item>genius</item>
+    </string-array>
+
+    <string-array name="masks">
+        <item>Batman</item>
+        <item>Spiderman</item>
+        <item>Ironman</item>
+    </string-array>
+
+
+</resources>
